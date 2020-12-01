@@ -1,2 +1,2 @@
 # Hello-world
-This is my forst interaction with GitHub
+This is my first interaction with GitHub
